@@ -68,7 +68,7 @@ Here is a great video made by "Flying Tools" showcasing how to connect the BYD A
 
 ## Battery specifications
 
-## LV Connector Type A
+## LV Connector Type A - 1192800MB
 The connection diagram is derived from reverse engineering the pins. The following pinout is valid for, but not limited to, PE4, PE5, PE6 and P48 battery. It can be identified easily by seeing that there are 4 rows of pins, and three thicker pins on the side.
  
 ![BYD_Atto_BK51_pinout](../images/byd-vehicle-atto-3-seal-tang-dolphin-song-and-more-07.png){ width="489" height="205" }
@@ -76,7 +76,7 @@ The connection diagram is derived from reverse engineering the pins. The followi
 
 ![image](../images/byd-vehicle-atto-3-seal-tang-dolphin-song-and-more-09.png)
 
-## LV Connector Type B
+## LV Connector Type B - 1332800MB
 This connector appears on newer battery types, such as the PA4. The software is NOT fully compatible with TypeB batteries yet. :x:
 Pinout varies between different batteries despite the plug & socket being the same.
 
